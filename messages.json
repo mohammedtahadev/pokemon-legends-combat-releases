@@ -1,0 +1,10 @@
+{
+  "messages": [
+    {
+      "id": "2026-10-27-1",
+      "date": "2026-10-27",
+      "title": "Version 0.3.9 is live: update now",
+      "text": "A big update is out. Battles now have 3D sound, made with Steam Audio, the 3D sound of NVGT games: every move has its own sound and flies or runs to its target, with weather and footsteps around you. Best with headphones.\nAlso new: watch live battles and replays, follow players, save replays, battle timer warnings, battle chat, and messages like this one.\nTo update, open Settings, Updates, and press Install. Then download the battle sounds in Settings, Battle sound (50 MB)."
+    }
+  ]
+}
